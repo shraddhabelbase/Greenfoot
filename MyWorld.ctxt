@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ The\ World\ for\ CSC14400\ Project\#1\ (Spring\ 2018)\r\n\ \r\n\ @author\ Stephen\ Blythe\r\n\ @version\ 1/2018\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n\ \r\n
+comment2.params=
+comment2.target=int\ getSpiderCount()
+comment2.text=\r\n\ returns\ the\ number\ of\ spiders\ found\ in\ the\ World.\r\n\ \r\n\ @return\ number\ of\ spiders\ found.\ \r\n
+comment3.params=
+comment3.target=void\ removeAllSpiders()
+comment3.text=\ \r\n\ removes\ all\ Spider\ objects\ from\ the\ world.\ \r\n
+comment4.params=
+comment4.target=void\ removeAllTraps()
+comment4.text=\ \r\n\ removes\ all\ Trap\ objects\ from\ the\ world.\ \r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ yes\!\ a\ World\ can\ have\ an\ act()\ method,\ too.\ \r\n\ It\ might\ just\ check\ to\ see\ if\ a\ key\ has\ been\r\n\ pressed,\ etc...\r\n
+comment6.params=
+comment6.target=void\ prepare()
+comment6.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment7.params=
+comment7.target=Scoreboard\ getScoreboard()
+comment7.text=\r\n\ This\ method\ returns\ the\ scoreboard\r\n
+numComments=8

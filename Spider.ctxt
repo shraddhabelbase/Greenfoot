@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Spider
+comment0.text=\r\n\ A\ Spider\ simply\ moves\ up\ and\ down\ in\ the\ world.\r\n\ \r\n\ After\ being\ placed\ into\ the\ world,\ the\ spider\ should\r\n\ not\ move\ for\ a\ random\ anount\ of\ time\ between\ 25\ and\r\n\ 375\ calls\ to\ it's\ act\ method.\ \r\n\ \r\n\ When\ this\ spider\ comes\ back\ to\ top\ of\ the\ world,\ add\ a\ \r\n\ new\ spider\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Spider\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

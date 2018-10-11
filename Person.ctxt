@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ The\ Person\ class.\ a\ A\ person\ can\:\r\n\ \r\n\ \ 1)\ move\ left\ or\ right\ based\ on\ user\ keypresses\r\n\ \ 2)\ lay\ a\ trap\ to\ kill\ spiders\r\n\ \ 3)\ have\ their\ own\ health\ reduced\ by\ touching\ a\ spider\r\n\ \ 4)\ Have\ their\ own\ score\ increased\ by\ not\ touching\ a\ spider\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Person()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=Scoreboard\ getScoreboard()
+comment3.text=\r\n\ Returns\ the\ Score\ to\ the\ Scoreboard\r\n
+comment4.params=
+comment4.target=void\ act()
+numComments=5
